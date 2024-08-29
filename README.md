@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blungus23
+- 👋 Hi, I’m @Blungus23 (or Noah Breedy)
 - 👀 I’m interested in programming (Obviously) and running track and field with the occasional XC race
 - 🌱 I’m currently learning how to program using javascript template frameworks
 - 💞️ I’m looking to collaborate on anything you want to add me on!
